@@ -6,6 +6,8 @@
 - Set power management attributes ``power/control="auto"`` for ``pci`` and
   ``usb`` devices.
 
+YoYo
+
 - Enable SCSI/SATA link powersaving features
 
 - Set fan control profile ``silent`` for ``sony-laptop``.
