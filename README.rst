@@ -11,3 +11,5 @@
 - Set fan control profile ``silent`` for ``sony-laptop``.
 
 - Disable radeon whistler
+
+Hi
