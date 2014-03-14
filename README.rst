@@ -9,5 +9,6 @@
 - Enable SCSI/SATA link powersaving features
 
 - Set fan control profile ``silent`` for ``sony-laptop``.
+hi
 
 - Disable radeon whistler
