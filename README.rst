@@ -4,7 +4,7 @@
   iw dev wlp2s0 set power_save on
 
 - Set power management attributes ``power/control="auto"`` for ``pci`` and
-  ``usb`` devices.
+  ``usb`` devices.bloop
 
 - Enable SCSI/SATA link powersaving features
 
