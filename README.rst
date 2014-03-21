@@ -12,3 +12,5 @@
 hi
 
 - Disable radeon whistler
+
+beep
