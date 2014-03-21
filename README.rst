@@ -13,6 +13,8 @@ hi
 
 blepp
 
+eeep
+
 
 - Disable radeon whistler
 
