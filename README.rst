@@ -11,6 +11,9 @@
 - Set fan control profile ``silent`` for ``sony-laptop``.
 hi
 
+blepp
+
+
 - Disable radeon whistler
 
 beep
